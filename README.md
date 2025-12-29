@@ -1,31 +1,28 @@
-## Hi, I'm Swayam Mohapatra 👋
+# Swayam Mohapatra
 
-I'm a driven Computer Science and Engineering student at KIIT (Batch of 2028), passionate about building innovative solutions at the intersection of Artificial Intelligence, Visual Arts, and cutting-edge Technology.
+CS Undergrad. I sit somewhere between visual arts and systems engineering.
 
-## About Me
-*   🚀 Currently mastering foundational CS concepts through Harvard's CS50 (C, Python, DSA).
-*   🧠 Exploring AI & Machine Learning - eager to apply these to real-world problems.
-*   🎨 Visual Arts Enthusiast - I believe great tech needs great design.
-*   💡 Aspiring Tech Entrepreneur - Excited about building the future.
+I'm not into the rat race or competitive programming. I just like building things that look good and work well. I use AI to handle the boring parts so I can focus on the design and the big picture.
 
-## 🌱 I’m currently learning:
-*   Advanced Data Structures & Algorithms (KIIT Curriculum & Self-Study)
-*   Machine Learning Fundamentals (Looking forward to learn more from Fast.ai/Kaggle)
+### What I do
+I'm exploring **Generative AI** and **Product Engineering**.
 
-## Portfolio Highlights (Work in Progress!)
-As a student just finishing my first year, my portfolio is actively under construction. Here's where you can track my progress and see what I'm building:
+**The Stack:**
+*   **Core:** Python, TypeScript
+*   **Web:** Next.js, Tailwind, Supabase
+*   **AI:** PyTorch, Groq/Llama
 
-*   **CS50 Projects:** https://github.com/QuantumChrono/CS50x
-*   **Visual Sketches & Concepts:** https://instagram.com/doepeedoo (I gotta showcase my artwork more but, it has some of my drawings; nothing digital yet ;P)
+### Current Project
+**[Unicorpse](https://your-vercel-link.app)**
+An AI tool that ruthlessly roasts startup ideas using Peter Thiel’s *Zero to One* framework.
+*   *The Irony:* Yes, it is technically a wrapper. I built a wrapper to roast people for building wrappers.
+*   *Tech:* Next.js, Groq API, and a gamified loading state because spinners are boring.
 
-## 📫 How to reach me:
-*   **LinkedIn:** https://linkedin.com/in/swayamohapatra (temporarily restricted due to a mistake from their end; will be back soon)
-*   **Email:** swmo2007@gmail.com <or> 24051820@kiit.ac.in
+### Interests
+*   **Systems:** How things scale (and how they break).
+*   **Art:** Visuals, aesthetics, and UI.
+*   **Gaming:** Analyzing mechanics (and collecting virtual coins).
+*   **Music:** I play the piano and I'm currently picking up the guitar.
 
-## ✨ My Aspirations for KIIT E-Cell (Tech Domain):
-I'm keen to join the E-Cell's Tech domain to:
-*   Collaborate on developing tools and platforms for student entrepreneurs.
-*   Apply my growing CSE and AI skills to practical challenges.
-*   Learn from experienced mentors and contribute to a vibrant innovative ecosystem.
 ---
-*This profile is a snapshot of my current journey – constantly learning and building!*
+[LinkedIn](https://linkedin.com/in/swayamohapatra)
