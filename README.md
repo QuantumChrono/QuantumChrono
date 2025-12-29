@@ -13,7 +13,7 @@ I'm exploring **Generative AI** and **Product Engineering**.
 *   **AI:** PyTorch, Groq/Llama
 
 ### Current Project
-**[Unicorpse](https://your-vercel-link.app)**
+**[Unicorpse](https://unicorpse.vercel.app)**
 An AI tool that ruthlessly roasts startup ideas using Peter Thiel’s *Zero to One* framework.
 *   *The Irony:* Yes, it is technically a wrapper. I built a wrapper to roast people for building wrappers.
 *   *Tech:* Next.js, Groq API, and a gamified loading state because spinners are boring.
