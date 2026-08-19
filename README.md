@@ -4,12 +4,14 @@ I'm obsessed with human knowledge. We know so much collectively, and it honestly
 
 I'm a CS student, but I hate separating art and science. I love to paint and draw, but I also like making software. I love to understand random physics and biology concepts. I just wanna learn things.
 
-### The Rabbit Holes (Robotics, 3D & AI)
+### The Rabbit Holes (3D, Robotics & AI)
 I learn by getting obsessed with a concept and building it. 
 
 I got curious about 3D. That led me to Blender, Fusion, and UE5, which subsequently dragged me into robotics and AR/VR. (You can check out my hard-surface models on my ArtStation).
 
-I got fascinated by Jarvis, so I built **Trinity**. It's a distributed local AI system. I bridged a PC and a laptop using Tailscale, separating the vision hub from the LLM inference engine, and routed workloads across dual-T4 GPUs to run a 40B parameter model, mostly just to see if I could make the architecture work.
+### Trinity
+
+I got fascinated by Jarvis, so I built **[Trinity](https://github.com/QuantumChrono/Project-Trinity)**. It's a distributed local AI system. I bridged a PC and a laptop using Tailscale, separating the vision hub from the LLM inference engine, and routed workloads across dual-T4 GPUs to run a 40B parameter model, mostly just to see if I could make the architecture work.
 
 ### One-Day Sprints
 I like making random stuff in one day. I use AI for boilerplate and syntax, which lets me focus on architecture, UX, and product decisions.
