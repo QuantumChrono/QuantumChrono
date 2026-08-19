@@ -4,8 +4,8 @@
 
 <div align="center">
   <a href="https://linkedin.com/in/swayamohapatra" target="_blank"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-121212?style=for-the-badge&logo=linkedin-white&logoColor=0A66C2" alt="LinkedIn"/></a>
-  <a href="https://www.artstation.com/swayamohapatra" target="_blank"><img src="https://img.shields.io/badge/ArtStation-121212?style=for-the-badge&logo=artstation&logoColor=13AFF0" alt="ArtStation"/></a>
-  <a href="mailto:swmo2007@gmail.com"><img src="https://img.shields.io/badge/Email-121212?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/></a>
+  <a href="https://www.artstation.com/swayamohapatra" target="_blank"><img src="https://img.shields.io/badge/ArtStation-121212?style=for-the-badge&logo=artstation&logoColor=%2313AFF0" alt="ArtStation"/></a>
+  <a href="mailto:swmo2007@gmail.com"><img src="https://img.shields.io/badge/Email-121212?style=for-the-badge&logo=gmail&logoColor=%23EA4335" alt="Email"/></a>
 </div>
 
 <br/>
@@ -14,20 +14,22 @@
 
 <br/>
 
-<!--
-TODO (manual, high priority): replace the placeholder GIF below with your own render —
-e.g. a 3-second spinning loop of a hard-surface model or the Somite S-09 battery.
-Host it in this repo (e.g. /assets/loop.gif) and reference it with a raw.githubusercontent.com
-URL instead of hotlinking Pinterest — Pinterest can throttle or pull external hotlinks without warning.
--->
-<img align="right" width="280" src="./somite-battery.gif" alt="3D Visual Loop" />
-
 ### ⌖ The Rabbit Holes (3D, Robotics & AI)
 I learn by getting obsessed with a concept and building it.
 
 I got curious about 3D modeling. That led me to Blender, Fusion, and UE5, which subsequently dragged me into robotics and AR/VR. (You can check out my hard-surface models on my [ArtStation](https://www.artstation.com/swayamohapatra)).
 
-<img src="https://img.shields.io/badge/Blender-121212?style=flat-square&logo=blender&logoColor=EA7600" /> <img src="https://img.shields.io/badge/Autodesk_Fusion-121212?style=flat-square&logo=autodesk&logoColor=0696D7" /> <img src="https://img.shields.io/badge/Unreal_Engine_5-121212?style=flat-square&logo=unrealengine&logoColor=white" />
+<br/>
+
+<div align="center">
+  <img width="450" src="./somite-battery.gif" alt="Somite S-09 Power Core" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Blender-121212?style=flat-square&logo=blender&logoColor=EA7600" /> <img src="https://img.shields.io/badge/Autodesk_Fusion-121212?style=flat-square&logo=autodesk&logoColor=0696D7" /> <img src="https://img.shields.io/badge/Unreal_Engine_5-121212?style=flat-square&logo=unrealengine&logoColor=white" />
+</div>
 
 <br/>
 
@@ -36,7 +38,11 @@ I got curious about 3D modeling. That led me to Blender, Fusion, and UE5, which 
 ### ⌖ Trinity
 I got fascinated by Jarvis, so I built **[Trinity](https://github.com/QuantumChrono/Project-Trinity)**. It is a distributed local AI system. I bridged a PC and a laptop using Tailscale, separating the vision hub from the LLM inference engine, and routed workloads across dual-T4 GPUs to run a 40B parameter model, mostly just to see if I could make the architecture work.
 
-<img src="https://img.shields.io/badge/Python-121212?style=flat-square&logo=python&logoColor=3776AB" /> <img src="https://img.shields.io/badge/Tailscale-121212?style=flat-square&logo=tailscale&logoColor=white" /> <img src="https://img.shields.io/badge/Kaggle_Cloud-121212?style=flat-square&logo=kaggle&logoColor=20BEFF" />
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-121212?style=flat-square&logo=python&logoColor=3776AB" /> <img src="https://img.shields.io/badge/Tailscale-121212?style=flat-square&logo=tailscale&logoColor=white" /> <img src="https://img.shields.io/badge/Kaggle_Cloud-121212?style=flat-square&logo=kaggle&logoColor=20BEFF" />
+</div>
 
 <br/>
 
@@ -51,7 +57,11 @@ I like making random stuff in one day. I use AI heavily for boilerplate and synt
 | **[ExportMarkdown](https://exportmarkdown.com)** | An entirely client-side markdown converter. No servers, no uploads. The conversion happens completely in the browser. Built mainly to learn about domains and Cloudflare. *Seeing my SEO score go up was honestly way more fun than getting the website ready.* |
 | **[Gatekeeper](https://usegatekeeper.vercel.app)** | An AI ticket analyzer with a human approval gate and prompt-injection defense built with Next.js and Supabase. Made in a few hours for a hackathon where we placed 4th out of 285 teams. The core is a strict state machine that controls when actions can actually execute. |
 
-<img src="https://img.shields.io/badge/Next.js-121212?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-121212?style=flat-square&logo=supabase&logoColor=3ECF8E" /> <img src="https://img.shields.io/badge/Cloudflare-121212?style=flat-square&logo=cloudflare&logoColor=F38020" />
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Next.js-121212?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-121212?style=flat-square&logo=supabase&logoColor=3ECF8E" /> <img src="https://img.shields.io/badge/Cloudflare-121212?style=flat-square&logo=cloudflare&logoColor=F38020" />
+</div>
 
 <br/>
 
@@ -61,14 +71,3 @@ I like making random stuff in one day. I use AI heavily for boilerplate and synt
 When I am not coding, I play the piano and video games. I wanna learn the guitar, I wanna get into sports and combat, I wanna do calisthenics, I wanna make music, I wanna learn modeling, how to dance, and a lot more.
 
 > **Fun fact:** I am left-handed, but when I injured my left shoulder, I forcefully taught myself to write with my right hand just because I thought it would be cool. Now I am kind of ambidextrous.
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=QuantumChrono&hide_border=true&show_icons=true&title_color=ffffff&text_color=8b949e&icon_color=ffffff&bg_color=121212" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuantumChrono&layout=compact&hide_border=true&title_color=ffffff&text_color=8b949e&bg_color=121212" alt="Top Languages" height="165"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=QuantumChrono&hide_border=true&background=121212&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF" alt="GitHub Streak" />
-</div>
